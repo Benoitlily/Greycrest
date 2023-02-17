@@ -1,0 +1,510 @@
+ .u-section-1 {
+  background-image: url("images/front-view-protective-glasses-with-hard-hat-headphones.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 737px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-weight: 700;
+  margin: 331px 508px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 773px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 308px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 672px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-right: 88px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 652px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 528px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+} .u-section-2 {
+  background-image: url("images/Logo-02.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 539px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 57px;
+  margin-bottom: 47px;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 560px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 511px;
+  height: 404px;
+  margin: 47px auto 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 392px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0 0 2px;
+}
+
+.u-section-2 .u-accordion-1 {
+  width: 539px;
+  margin: 85px auto 0;
+}
+
+.u-section-2 .u-accordion-link-1 {
+  font-size: 1.25rem;
+  text-decoration: none solid rgb(0, 0, 0);
+  font-weight: normal;
+  padding: 10px 20px;
+}
+
+.u-section-2 .u-icon-1 {
+  height: 20px;
+  width: 20px;
+}
+
+.u-section-2 .u-accordion-pane-1 {
+  min-height: 180px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-2 .u-accordion-link-2 {
+  font-size: 1.25rem;
+  text-decoration: none solid rgb(17, 17, 17);
+  font-weight: normal;
+  padding: 10px 20px;
+}
+
+.u-section-2 .u-icon-2 {
+  height: 20px;
+  width: 20px;
+}
+
+.u-section-2 .u-accordion-pane-2 {
+  min-height: 260px;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 0;
+}
+
+.u-section-2 .u-accordion-link-3 {
+  font-size: 1.25rem;
+  text-decoration: none solid rgb(17, 17, 17);
+  font-weight: normal;
+  padding: 10px 20px;
+}
+
+.u-section-2 .u-icon-3 {
+  height: 20px;
+  width: 20px;
+}
+
+.u-section-2 .u-accordion-pane-3 {
+  min-height: 305px;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 427px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-bottom: -242px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 462px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 470px;
+    height: 371px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 323px;
+  }
+
+  .u-section-2 .u-accordion-1 {
+    width: 470px;
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 856px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-bottom: 60px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 626px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 360px;
+    height: 284px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 626px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-bottom: 0;
+  }
+
+  .u-section-2 .u-accordion-1 {
+    width: 360px;
+  }
+
+  .u-section-2 .u-accordion-link-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-2 .u-accordion-link-2 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-2 .u-accordion-link-3 {
+    font-size: 1.875rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1010px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-bottom: -87px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 441px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 449px;
+  }
+
+  .u-section-2 .u-accordion-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 819px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-bottom: 47px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 278px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 268px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 917px;
+}
+
+.u-section-3 .u-text-1 {
+  width: 838px;
+  font-size: 1.5rem;
+  margin: 85px auto 0;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  width: 1090px;
+  margin: 60px auto 60px 17px;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 649px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/Covid1.jpg");
+  background-position: 91.35% 50%;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-image-2 {
+  min-height: 209px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/Covid21.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3 .u-image-3 {
+  min-height: 209px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/Covid31.jpg");
+  background-position: 50% 29.39%;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-3 .u-image-4 {
+  min-height: 440px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/Covid41.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-5 {
+  min-height: 440px;
+}
+
+.u-section-3 .u-container-layout-5 {
+  padding: 0 8px;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1rem;
+  margin: 7px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 854px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 940px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 539px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 180px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 180px;
+  }
+
+  .u-section-3 .u-image-4 {
+    min-height: 360px;
+  }
+
+  .u-section-3 .u-layout-cell-5 {
+    background-position: 50% 50%;
+    min-height: 360px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1619px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: auto;
+    margin-top: 40px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 77px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 444px;
+  }
+
+  .u-section-3 .u-image-2 {
+    background-position: 100% 50%;
+    min-height: 465px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 465px;
+  }
+
+  .u-section-3 .u-image-4 {
+    min-height: 484px;
+  }
+
+  .u-section-3 .u-layout-cell-5 {
+    min-height: 484px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 2089px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 333px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 366px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 448px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-4 {
+    min-height: 428px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-5 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1621px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 210px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 230px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 282px;
+  }
+
+  .u-section-3 .u-image-4 {
+    min-height: 269px;
+  }
+}
