@@ -40792,7 +40792,7 @@ a.u-link.u-text-hover-grey-90:hover {
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   width: 907px;
-  margin: 20px auto;
+  margin: 18px auto 22px;
 }
 
 .u-header .u-container-layout-1 {
@@ -40833,8 +40833,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-group-1 {
     min-height: 74px;
-    margin-top: 10px;
-    margin-bottom: 10px;
     height: auto;
   }
 
@@ -40862,8 +40860,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-group-1 {
     min-height: 79px;
-    margin-top: 0;
-    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -40886,6 +40882,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-group-1 {
+    margin-top: 0;
+    margin-bottom: 0;
     min-height: 86px;
     width: auto;
     margin-right: initial;
