@@ -12,6 +12,11 @@
   font-size: 3.75rem;
   font-weight: 700;
   text-shadow: 3px 3px 8px rgba(0,0,0,0.7);
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
   margin: 524px 508px 60px 0;
 }
 
@@ -65,6 +70,11 @@
 .u-section-2 .u-layout-wrap-1 {
   margin-top: 79px;
   margin-bottom: 44px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
 }
 
 .u-section-2 .u-image-1 {
@@ -182,6 +192,11 @@
 .u-section-3 .u-layout-wrap-1 {
   margin-top: 79px;
   margin-bottom: 44px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
 }
 
 .u-section-3 .u-image-1 {
@@ -299,6 +314,11 @@
 .u-section-4 .u-layout-wrap-1 {
   margin-top: 79px;
   margin-bottom: 44px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
 }
 
 .u-section-4 .u-image-1 {
@@ -416,6 +436,8 @@
 .u-section-5 .u-layout-wrap-1 {
   margin-top: 79px;
   margin-bottom: 44px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-scale: 1;
 }
 
 .u-section-5 .u-image-1 {
@@ -533,6 +555,11 @@
 .u-section-6 .u-layout-wrap-1 {
   margin-top: 79px;
   margin-bottom: 44px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
 }
 
 .u-section-6 .u-image-1 {
@@ -650,12 +677,22 @@
 .u-section-7 .u-layout-wrap-1 {
   margin-top: 79px;
   margin-bottom: 44px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
 }
 
 .u-section-7 .u-image-1 {
   min-height: 574px;
   background-image: url("images/AdoaConference.png");
   background-position: 50% 50%;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
 }
 
 .u-section-7 .u-container-layout-1 {
@@ -767,6 +804,11 @@
 .u-section-8 .u-layout-wrap-1 {
   margin-top: 79px;
   margin-bottom: 44px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
 }
 
 .u-section-8 .u-image-1 {
@@ -884,6 +926,11 @@
 .u-section-9 .u-layout-wrap-1 {
   margin-top: 79px;
   margin-bottom: 44px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
 }
 
 .u-section-9 .u-image-1 {
