@@ -40804,6 +40804,12 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: 25px auto 0 193px;
 }
 
+.u-header .u-sidenav-1 {
+  width: 202px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
 .u-header .u-nav-3 {
   font-size: 1.25rem;
 }
@@ -40916,8 +40922,15 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: 24px;
   }
 
+  .u-header .u-sidenav-1 {
+    width: 203px;
+  }
+
   .u-header .u-nav-3 {
-    margin-left: 0;
+    width: 167px;
+    margin-top: -28px;
+    margin-bottom: -76px;
+    margin-left: -14px;
   }
 
   .u-header .u-image-1 {
